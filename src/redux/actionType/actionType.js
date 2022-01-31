@@ -1,0 +1,2 @@
+ export const MOVIES_TRENDING = 'MOVIES_TRENDING';
+ export const PRODUCTS = 'PRODUCTS';
